@@ -1,4 +1,4 @@
-### Hi there ![wave hand](https://redesign.dominickjay.com/images/tenor.gif "Wave Hand")
+### Hi there ![wave hand](https://redesign.dominickjay.com/images/tenor.gif "Wave Hand" =100x20)
 
 <!--
 **dominickjay/dominickjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
